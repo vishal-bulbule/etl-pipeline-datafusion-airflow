@@ -15,8 +15,9 @@ Part 2  :   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)]((https:
 The project aims to perform the following tasks:
 
 1. **Data Extraction**: Extract data using python.
-2. **Data Masking**: Apply data masking techniques to sensitive information before loading it into BigQuery.
+2. **Data Masking**: Apply data masking & encoding techniques to sensitive information in Cloud Data Fusion before loading it into BigQuery.
 3. **Data Loading**: Load transformed data into Google BigQuery tables.
+4. **Orchestration**: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
 ![image](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/755818fe-1cd3-4e1c-827d-35b963d6f414)
 
